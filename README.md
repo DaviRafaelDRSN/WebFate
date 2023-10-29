@@ -47,4 +47,4 @@ Este projeto é licenciado sob a Licença MIT. Para obter mais informações, co
 
 ---
 
-<img src="Home/Assets/W.png" alt="Texto Alternativo" width="200" height="100">
+<img src="Home/Assets/W.png" alt="Texto Alternativo" width="100" height="100">
